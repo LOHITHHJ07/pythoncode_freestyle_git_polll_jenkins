@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v9")
+print("Wassup Buddy!! this simple free style job testing  git polling")
